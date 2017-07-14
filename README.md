@@ -14,7 +14,7 @@ Technology used `Angular cli`(Angular 4) and Languages `HTML`,`CSS`,`TYPESCRIPT`
 ![Screenshot](Screenshot.png)
 
 #### Requirment:
-	- You must have npm module intall.
+	- You must have npm module install.
 	- nodejs v6+.
 	- Angular cli
 
