@@ -13,14 +13,11 @@ Technology used `Angular cli`(Angular 4) and Languages `HTML`,`CSS`,`TYPESCRIPT`
 
 ![Screenshot](Screenshot.png)
 
-#### Requirment:
-	- You must have npm module install.
-	- nodejs v6+.
-	- Angular cli
-
 #### Runing Application:
-	
-	- You have to create Application using npm module .
-	- copy node_modules folder and paste it into root directory of Application.
-	- Type `ng serve` in terminal and open brower on `localhost:4200`.
+ 
+	- Open terminal type as follows.
+	- `npm install`
+	- Type `ng serve` in terminal and open browser on `localhost:4200`.
 	- 4200 default port of angularjs. 
+
+Note: Make sure your in project directory.
